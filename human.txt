@@ -3,3 +3,6 @@ Johannesburg
 Skyfall
 bombay
 cloud
+snowfall
+
+USA
